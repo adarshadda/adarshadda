@@ -1,4 +1,4 @@
-##💫 About Me:
+## 💫 About Me:
 👋 Hi, I’m @adarshadda<br>👀 I’m interested in Ai Models, Machine Learning and Generative AI.<br>🌱 I’m currently learning DL, NLP, and MLOps.<br>💞️ I’m looking to collaborate on innovative projects that involve AI and Machine Learning.<br>📫 How to reach me adarshaddagatla952@gmail.com
 
 
